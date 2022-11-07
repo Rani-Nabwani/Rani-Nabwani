@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rani-nabwani-256b92246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +10,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Rani-Nabwani&style=flat-square&color=blue" alt=""/>
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -30,10 +28,11 @@ A passionate DevOps student from israel <img src="https://media.giphy.com/media/
 - :seedling: I’m currently learning Kubernetes, Jenkins, Docker, Ansible, Terraform.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rani-nabwani-256b92246/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -48,6 +47,7 @@ A passionate DevOps student from israel <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
